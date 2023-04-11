@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="zoom">zoom</string>
+    <string name="clockwise">clockwise</string>
+    <string name="fade">fade</string>
+    <string name="blink">blink</string>
+    <string name="move">move</string>
+    <string name="slide">slide</string>
+    <string name="btnReset">Reset</string>
+    <string name="dog_koda">Koda</string>
+    <string name="dog_lola">Lola</string>
+    <string name="dog_frankie">Frankie</string>
+    <string name="dog_nox">Nox</string>
+    <string name="dog_faye">Faye</string>
+    <string name="dog_bella">Bella</string>
+    <string name="dog_moana">Moana</string>
+    <string name="dog_tzeitel">Tzeitel</string>
+    <string name="dog_leroy">Leroy</string>
+</resources>
